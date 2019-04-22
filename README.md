@@ -1,4 +1,4 @@
 Tornado-Modelling-R-INLA-county-level-USA
 
-[DOWNLOAD COMPLETE FOLDER TO HAVE ACCESS TO R-CODE AND DATA USED ON THE THESIS]
+[Download complete folder to have access to all the data and code used on the thesis]
 
